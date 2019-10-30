@@ -10,7 +10,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79c35bbd-ed0f-4e90-9051-c4ddcf1e673c" name="Default Changelist" comment="" />
+    <list default="true" id="79c35bbd-ed0f-4e90-9051-c4ddcf1e673c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../codemagic.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../codemagic.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../counter_flutter/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../counter_flutter/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -299,6 +302,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
