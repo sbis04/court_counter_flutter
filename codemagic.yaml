@@ -28,6 +28,4 @@ workflows:
           - sbis1999@gmail.com
     artifacts:
       - CourtCounter/app/build/**/outputs/**/*.apk
-      # - build/**/outputs/**/*.aab
-      # - build/**/outputs/**/mapping.txt
       - flutter_drive.log
