@@ -16,6 +16,18 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <item name="colorPrimary">#FF9800</item>
+        <!-- Primary dark theme color of the app (sets color of status bar) -->
+        <item name="colorPrimaryDark">#FB8C00</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#FF9800</item>
+    </style>
+
+    <style name="CounterAppTheme" parent="Base.Theme.AppCompat.Light">
         <!-- Primary theme color of the app (sets background color of app bar) -->
         <item name="colorPrimary">#FF9800</item>
         <!-- Primary dark theme color of the app (sets color of status bar) -->

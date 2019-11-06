@@ -13,7 +13,7 @@ import io.flutter.facade.Flutter;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static int SPLASH_SCREEN_TIME_OUT = 4000;
+    private static final int SPLASH_SCREEN_TIME_OUT = 4000;
     // After completion of 2000 ms, the next activity will get started.
 
     @Override
