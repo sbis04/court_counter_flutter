@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 void main() => runApp(chooseWidget(window.defaultRouteName));
 
 Widget chooseWidget(String route) {
-  switch(route) {
+  switch (route) {
     case 'splashRoute':
       return MyFlutterView();
 
@@ -30,14 +30,23 @@ class SplashScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.white,
       body: Container(
-        child: FlutterLogo(
-          size: 200,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: <Widget>[
+            Text(
+              'Court Counter',
+              style: TextStyle(
+                color: Colors.orange[800],
+                fontSize: 40,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            Image.asset('assets/images/basketball.jpg'),
+          ],
         ),
       ),
     );
   }
 }
-
-
-
