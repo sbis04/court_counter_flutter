@@ -12,7 +12,7 @@ Widget chooseWidget(String route) {
 
     default:
       return Center(
-        child: Text('Unkown'),
+        child: Text('Unknown'),
       );
   }
 }
