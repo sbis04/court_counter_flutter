@@ -6,6 +6,7 @@ void main() => runApp(chooseWidget(window.defaultRouteName));
 
 Widget chooseWidget(String route) {
   switch (route) {
+    // name of the route defined in the host app
     case 'splashRoute':
       return MyFlutterView();
 
