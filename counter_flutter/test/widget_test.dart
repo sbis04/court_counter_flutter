@@ -14,12 +14,12 @@ void main() {
 
     await tester.pumpWidget(makeTestableWidget(child: splashScreen));
 
-//    expect(find.byType(FlutterLogo), findsOneWidget);
-//    expect(find.byType(OutlineButton), findsOneWidget);
-    expect(find.text('Court Counter'), findsOneWidget);
 
-//    print('Found Flutter logo.');
-//    print('Button found.');
+    expect(find.text('Court Counter'), findsOneWidget);
+    expect(find.byType(Image),findsOneWidget);
+
+
     print('Found app title text.');
+    print('Found splash screen image.');
   });
 }
