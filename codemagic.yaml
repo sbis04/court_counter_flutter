@@ -19,7 +19,7 @@ workflows:
       - |
         # set up local properties
         echo "flutter.sdk=$HOME/programs/flutter" > "$FCI_BUILD_DIR/counter_flutter/.android/local.properties"
-      - flutter packages pub get
+      - cd $FCI_BUILD_DIR/counter_flutter && flutter packages pub get
       - cd $FCI_BUILD_DIR/counter_flutter && flutter test
       - cd $FCI_BUILD_DIR/CourtCounter && ./gradlew assembleDebug
     publishing:
