@@ -1,4 +1,4 @@
-package com.example.counter_flutter.host;
+package com.souvik_biswas.counter_flutter.host;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
