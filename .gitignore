@@ -1,0 +1,9 @@
+CourtCounter/.project
+.vscode/settings.json
+CourtCounter/key.properties
+CourtCounter/local.properties
+**.lock
+**.bin
+**.properties
+counter_flutter/.settings/org.eclipse.buildship.core.prefs
+**.project

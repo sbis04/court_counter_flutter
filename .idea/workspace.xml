@@ -2,26 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c4d6ea6-e1fb-4ea2-963f-9b2ba509ddba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CourtCounter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CourtCounter/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourtCounter/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourtCounter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CourtCounter/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CourtCounter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CourtCounter/app/src/main/java/com/example/android/courtcounter/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/CourtCounter/app/src/main/java/com/example/android/courtcounter/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/javaCompile/taskJars.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/Flutter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/Flutter/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/counter_flutter/.android/Flutter/flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/Flutter/flutter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/counter_flutter/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/Flutter/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/Flutter/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/Flutter/src/main/java/io/flutter/facade/Flutter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/Flutter/src/main/java/io/flutter/facade/FlutterFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/Flutter/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/Flutter/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/app/src/main/java/com/example/counter_flutter/host/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/app/src/main/java/com/example/counter_flutter/host/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/include_flutter.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/include_flutter.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/.android/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/.android/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/counter_flutter/counter_flutter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/counter_flutter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/counter_flutter/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/counter_flutter/pubspec.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="36" />
-    <option name="width" value="1312" />
-    <option name="height" value="831" />
-  </component>
+  <component name="ProjectId" id="1a4rWb8LWAKXf1UkmfY3Z3gg9WN" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -93,29 +90,15 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.29971388" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Flutter Inspector" />
-      <window_info anchor="right" id="Flutter Outline" />
-      <window_info anchor="right" id="Palette&#9;" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -36,4 +36,8 @@
         <item name="colorButtonNormal">#FF9800</item>
     </style>
 
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@drawable/demo</item>
+    </style>
+
 </resources>
