@@ -1,8 +1,8 @@
+# Ignoring the project binaries
 .vscode
 **.lock
 **.bin
 **.properties
-counter_flutter/.settings/org.eclipse.buildship.core.prefs
 **.project
 .idea
 .DS_Store
@@ -17,5 +17,7 @@ CourtCounter/.project
 CourtCounter/key.properties
 CourtCounter/local.properties
 
+# Ignoring the counter_flutter binaries
 counter_flutter/.android
 counter_flutter/.metadata
+counter_flutter/.settings
