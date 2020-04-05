@@ -7,3 +7,4 @@ CourtCounter/local.properties
 **.properties
 counter_flutter/.settings/org.eclipse.buildship.core.prefs
 **.project
+.idea
