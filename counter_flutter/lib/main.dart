@@ -8,7 +8,7 @@ Widget chooseWidget(String route) {
   switch (route) {
     // name of the route defined in the host app
     case 'splashRoute':
-      return MyFlutterView();
+      return MyFlutterActivity();
 
     default:
       return Center(
@@ -17,7 +17,7 @@ Widget chooseWidget(String route) {
   }
 }
 
-class MyFlutterView extends StatelessWidget {
+class MyFlutterActivity extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
