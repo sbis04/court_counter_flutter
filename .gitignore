@@ -16,3 +16,6 @@ CourtCounter/.project
 # Ignoring the CourtCounter secrets
 CourtCounter/key.properties
 CourtCounter/local.properties
+
+counter_flutter/.android
+counter_flutter/.metadata
