@@ -1,7 +1,4 @@
-CourtCounter/.project
-.vscode/settings.json
-CourtCounter/key.properties
-CourtCounter/local.properties
+.vscode
 **.lock
 **.bin
 **.properties
@@ -9,3 +6,13 @@ counter_flutter/.settings/org.eclipse.buildship.core.prefs
 **.project
 .idea
 .DS_Store
+
+# Ignoring the CourtCounter binaries
+CourtCounter/.idea
+CourtCounter/.gradle
+CourtCounter/.settings
+CourtCounter/.project
+
+# Ignoring the CourtCounter secrets
+CourtCounter/key.properties
+CourtCounter/local.properties
