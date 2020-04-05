@@ -4,10 +4,7 @@ import android.content.Intent;
 import android.os.Handler;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.view.ViewGroup;
 import android.view.WindowManager;
-import android.widget.FrameLayout;
 
 import io.flutter.embedding.android.FlutterActivity;
 
@@ -25,32 +22,14 @@ public class MainActivity extends AppCompatActivity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
-        // This will bind your MainActivity.class file with activity_main
-//        setContentView(R.layout.activity_main);
-
+        // Defining the FlutterActivity to display
+        // the Flutter UI within this host app.
         startActivity(
                 FlutterActivity
                         .withNewEngine()
                         .initialRoute("splashRoute")
                         .build(this)
         );
-
-        // Defining a view to display flutter screen
-//        View flutterView = Flutter.createView(
-//                MainActivity.this,
-//                getLifecycle(),
-//                "splashRoute"
-//        );
-//
-//        // Using FrameLayout for the Flutter screen
-//        FrameLayout.LayoutParams frameLayout =
-//                new FrameLayout.LayoutParams(
-//                        ViewGroup.LayoutParams.MATCH_PARENT,
-//                        ViewGroup.LayoutParams.MATCH_PARENT
-//                );
-//
-//        addContentView(flutterView, frameLayout);
-
 
         new Handler().postDelayed(() -> {
 
